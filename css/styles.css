@@ -136,7 +136,7 @@ text-align: center;
 @media (max-width: 1028px) {
 
   .tittle-image{
-    transform: rotate(0);
+/*     transform: rotate(0); */
   }
 
   #title{
